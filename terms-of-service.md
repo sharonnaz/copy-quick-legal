@@ -1,14 +1,14 @@
-# Terms of Service for Easy Backup
+# Terms of Service for Copy Quick
 
-**Last updated:** September 22, 2026  
-**App:** Easy Backup  
+**Last updated:** September 26, 2026  
+**App:** Copy Quick  
 **Developer contact:** sharon.naz@gmail.com
 
-These Terms of Service (“Terms”) govern your use of the Easy Backup mobile application (“the App”). By downloading or using the App, you agree to these Terms. If you do not agree, do not use the App.
+These Terms of Service (“Terms”) govern your use of the Copy Quick mobile application (“the App”). By downloading or using the App, you agree to these Terms. If you do not agree, do not use the App.
 
 ## 1. What the App does
 
-Easy Backup helps you copy photos and videos from your device to a destination **you select** (such as an external drive or folder exposed through the system file browser). The App is a transfer / backup helper. It is **not** a cloud storage provider and does not guarantee off-site redundancy unless you choose a destination that provides it.
+Copy Quick helps you copy photos and videos from your device to a destination **you select** (such as an external drive or folder exposed through the system file browser). The App is a transfer / backup helper. It is **not** a cloud storage provider and does not guarantee off-site redundancy unless you choose a destination that provides it.
 
 ## 2. Your responsibilities
 

@@ -1,14 +1,14 @@
-# Privacy Policy for Easy Backup
+# Privacy Policy for Copy Quick
 
-**Last updated:** September 22, 2026  
-**App:** Easy Backup  
+**Last updated:** September 26, 2026  
+**App:** Copy Quick  
 **Developer contact:** sharon.naz@gmail.com
 
-This Privacy Policy explains how Easy Backup (“the App”) handles information when you use it on iPhone or Android.
+This Privacy Policy explains how Copy Quick (“the App”) handles information when you use it on iPhone or Android.
 
 ## Summary
 
-Easy Backup is designed to copy your photos and videos from your device to storage **you choose** (for example, an external drive or folder you select). The App does **not** operate a cloud backup service for your media, and it does **not** upload your photo or video library to our servers.
+Copy Quick is designed to copy your photos and videos from your device to storage **you choose** (for example, an external drive or folder you select). The App does **not** operate a cloud backup service for your media, and it does **not** upload your photo or video library to our servers.
 
 ## Information we access on your device
 
